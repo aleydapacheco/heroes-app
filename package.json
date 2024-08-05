@@ -10,7 +10,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "delete:docs": "del /Q docs\\*",
-    "copy:dist": "copyfiles dist/06heroes-app/* ./docs -f"
+    "copy:dist": "copyfiles dist/06-heroes-app/* ./docs -f"
   
   },
   "private": true,
